@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Network Time Protocol</string>
+    <string name="get_network_time">get network time</string>
+</resources>
